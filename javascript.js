@@ -30,26 +30,26 @@ $(function () {
       buffInterval = null,
       tFlag = false,
       albums = [
-        "Si ayer fuera hoy",
-        "Me & You",
-        "Electro Boy",
-        "Home",
-        "Proxy (Original Mix)"
+        "Si Ayer Fuera Hoy",
+        "Balas Perdidas",
+        "Beret & Morat",
+        "Balas Perdidas",
+        "Enamorado Tuyo"
       ],
       trackNames = [
         "Morat - Paris",
-        "Alex Skrindo - Me & You",
-        "Kaaze - Electro Boy",
-        "Jordan Schor - Home",
-        "Martin Garrix - Proxy"
+        "Morat, Aitana - Presiento",
+        "Beret & Morat - Porfa, no te vayas",
+        "Morat - Causa Perdida",
+        "Cuarteto de nos - Enamorado tuyo"
       ],
       albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
       trackUrl = [
         "https://raw.githubusercontent.com/JulianL76/Love_Letter/main/multimedia/SoundTrack_1.mp3",
-        "https://raw.githubusercontent.com/JulianL76/Love_Letter/master/music/1.mp3",
-        "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3",
-        "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3",
-        "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3"
+        "https://raw.githubusercontent.com/JulianL76/Love_Letter/main/multimedia/SoundTrack_2.mp3",
+        "https://raw.githubusercontent.com/JulianL76/Love_Letter/main/multimedia/SoundTrack_3.mp3",
+        "https://raw.githubusercontent.com/JulianL76/Love_Letter/main/multimedia/SoundTrack_4.mp3",
+        "https://raw.githubusercontent.com/JulianL76/Love_Letter/main/multimedia/SoundTrack_5.mp3"
       ],
       playPreviousTrackButton = $("#play-previous"),
       playNextTrackButton = $("#play-next"),
